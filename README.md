@@ -1,6 +1,7 @@
 # Text-classification-for-Sentiment-Analysis
 
 The project involves building machine learning models and deep learning models to tackle the sentiments of reviews from Amazon reviews dataset which contains real reviews for office products sold on Amazon.
+Link to dataset (https://web.archive.org/web/20201127142707if_/https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Office_Products_v1_00.tsv.gz).
 
 The project is divided into 2 parts:
 
